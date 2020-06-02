@@ -12,4 +12,4 @@
 	url = https://github.com/makerdao/terra
 [submodule "submodules/mcd-cli"]
 	path = submodules/mcd-cli
-	url = https://github.com/makerdao/mcd-cli
+	url = https://github.com/MaharajaDao/mcd-cli
